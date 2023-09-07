@@ -1,0 +1,13 @@
+{
+  "name": "cypress-dom-is-visible",
+  "author": "jjhelguero",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn cypress open --e2e"
+  },
+  "devDependencies": {
+    "cypress": "^13.1.0",
+    "cypress-markdown-preprocessor": "^1.10.1"
+  }
+}
